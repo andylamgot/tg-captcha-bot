@@ -1,4 +1,4 @@
-module github.com/mxssl/tg-captcha-bot
+module github.com/andylamgot/tg-captcha-bot
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
