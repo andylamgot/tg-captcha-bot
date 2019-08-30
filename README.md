@@ -27,7 +27,7 @@ This bot has been tested on several supergroups (2000+ people) for a long time a
 1. Clone the repo
 
 ```bash
-git clone https://github.com/mxssl/tg-captcha-bot.git
+git clone https://github.com/andylamgot/tg-captcha-bot.git
 cd tg-captcha-bot
 ```
 
