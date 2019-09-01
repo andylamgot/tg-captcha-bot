@@ -1,6 +1,6 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/mxssl/tg-captcha-bot)](https://goreportcard.com/report/github.com/mxssl/tg-captcha-bot)
 
-# BURST Telegram Captcha Bot
+# Telegram Captcha Bot
 
 Telegram bot that validates new users that enter supergroup. Validation works like a simple captcha. Bot written in Go (Golang).
 
