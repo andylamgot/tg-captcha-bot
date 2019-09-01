@@ -10,7 +10,7 @@ welcome_message = "Hi! This is the spam protection system. Please press the butt
 after_success_message = "You r BURSTer now, read the pinned msg pls."
 
 # Edit welcome message with this text if user failed validation
-after_fail_message = "Spammer banned. Cheers!"
+after_fail_message = "Spammer! You are Terminated!"
 
 # Show success and failure messages or delete them. Pick "show" or "del"
 print_success_and_fail_messages_strategy = "show"
