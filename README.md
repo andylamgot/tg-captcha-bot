@@ -80,4 +80,4 @@ You can change several bot's settings through the configuration file `config.tom
 
 ## Contacts
 
-If you have questions feel free to ask me in TG [@mxssl](https://t.me/mxssl)
+If you have questions feel free to ask me in TG [@andylamgot](https://t.me/andylamgot)
