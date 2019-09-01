@@ -7,7 +7,7 @@ button_text = "I'm not a Robot!"
 welcome_message = "Hi! This is the spam protection system. Please press the button within 30 seconds or you will be banned!"
 
 # Edit welcome message with this text if user passed validation
-after_success_message = "Welcome, you passed the validation."
+after_success_message = "You r BURSTer now, read the pinned msg pls."
 
 # Edit welcome message with this text if user failed validation
 after_fail_message = "Spammer banned. Cheers!"
