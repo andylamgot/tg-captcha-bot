@@ -10,4 +10,4 @@ services:
       - ./config.toml:/config.toml
     restart: unless-stopped
     environment:
-      - TGTOKEN=871863107:AAEbKL4wvJa_j0A54H-kWy2E898COquk4aQ
+      - TGTOKEN=YOURTOKEN
