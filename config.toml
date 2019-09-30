@@ -4,7 +4,7 @@
 button_text = "I'm not a Robot!"
 
 # Bot sends this message to new users
-welcome_message = "Hi! This is the spam protection system. Please press the button within 30 seconds or you will be banned!"
+welcome_message = "Hi! This is the spam protection system. Please PRESS the button within 30 seconds or you will be banned!"
 
 # Edit welcome message with this text if user passed validation
 after_success_message = "BURSTer! Read the pinned msg pls."
