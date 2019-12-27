@@ -7,7 +7,7 @@ button_text = "I'm not a Robot!"
 welcome_message = "Welcome, Please PRESS button below within 30sec or you'll be banned!"
 
 # Edit welcome message with this text if user passed validation
-after_success_message = "Hi BURSTer! Pls read the pinned msg!"
+after_success_message = "Hi BURSTer! Pls read the pinned msg! Check out new: burst-coin.org"
 
 # Edit welcome message with this text if user failed validation
 after_fail_message = "Spammer! You are Terminated!"
